@@ -1,0 +1,5 @@
+http://localhost:8080/bookstore/jsps/user/login.jsp
+
+http://localhost:8080/bookstore/index.jsp
+
+http://localhost:8080/bookstore/adminjsps/admin/index.jsp
